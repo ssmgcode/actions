@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GLib Action
+GenericName=GLib Action API
+Comment=GLib Action Library/API usage
+Categories=Utility;Education;
+Exec=com.github.ssmgcode.actions
+Icon=application-default-icon
+Terminal=false
+Type=application
+Keywords=GLib;Actions;API

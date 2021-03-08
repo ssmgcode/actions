@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.ssmgcode.actions package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.ssmgcode.actions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-08 13:06-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:13 data/actions.appdata.xml.in:5
+#: data/actions.desktop.in:3
+msgid "GLib Action"
+msgstr ""
+
+#: data/actions.appdata.xml.in:6
+msgid "GLib.Action Library"
+msgstr ""
+
+#: data/actions.appdata.xml.in:8
+msgid "GLib.Action Library App"
+msgstr ""
+
+#: data/actions.desktop.in:4
+msgid "GLib Action API"
+msgstr ""
+
+#: data/actions.desktop.in:5
+msgid "GLib Action Library/API usage"
+msgstr ""
+
+#: data/actions.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/actions.desktop.in:10
+msgid "GLib;Actions;API"
+msgstr ""

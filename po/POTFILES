@@ -1,0 +1,3 @@
+src/Application.vala
+data/actions.appdata.xml.in
+data/actions.desktop.in
